@@ -1,4 +1,5 @@
 Step Left,
 Step Right,
+Twirl your hands,
 Jump Up and Down,
 Do the rainbow Dance.
